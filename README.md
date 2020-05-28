@@ -1,0 +1,2 @@
+# tayzarlwi
+pkg install git
